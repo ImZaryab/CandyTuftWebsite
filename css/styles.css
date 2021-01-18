@@ -1,0 +1,133 @@
+body
+{
+	font-size: 16px;
+	background-color: #8a9caa;
+	color: #0c4160;
+	font-family: 'Playfair Display', serif;
+	/*background: url('../img/CandyTuft Wall.png');*/
+}
+
+#BrandName
+{
+	color: #0c4160;
+	font-size: 2.5em;
+	font-family: 'Dancing Script', cursive;
+	padding-top: 52px;
+	padding-left: 0px;
+	text-decoration: none;
+}
+
+
+/*FOR BRAND TITLE*/
+
+div > a
+{
+	color: #0c4160;
+	text-decoration: none !important;
+}
+div > a:hover
+{
+	color: #0c4160;
+}
+
+
+/*FOR CONTACT US/PHONE*/
+
+#phone
+{
+	position: absolute;
+	right: 30px;
+	font-size: 1.8em;
+}
+
+#phone span
+{
+	color: #8a9caa;
+}
+
+#phone div
+{
+	font-size: 0.8em;
+}
+
+
+/*FOR Banner Container*/
+
+#BannerContainer
+{
+
+	/*background: white;*/
+	width: 94%;
+	margin-top: 20px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	box-shadow: 0 0 50px #f8f8f8;
+}
+
+
+/*FOR Banner Div Element*/
+
+.container-fluid #Banner
+{
+	/*width: 960px;
+	height: 365px;*/
+	padding-right: 30px;
+	padding-left: 30px ;
+	margin-left: auto;
+	margin-right: auto;
+	border: none;
+}
+
+#Banner img
+{
+	border-radius: 0;
+}
+
+
+/*FOR Main Content Container*/
+
+#mainContent
+{
+	width: 94%;
+	border-radius: 0;
+	font-size: 1.5em;
+}
+
+.cardShadow > span:hover
+{
+	box-shadow: 0 0 30px #000000;
+}
+
+/*FOR EXTRA SMALL DEVICES*/
+
+@media (max-width: 767px)
+{
+	#BrandName
+	{
+		padding-top: 0px;
+		padding-left: 10px;
+	}
+
+	#phone span
+	{
+		color: #0c4160;
+	}
+}
+
+
+/*FOR UPTO SMALL DEVICES*/
+
+@media (max-width: 991px)
+{
+	#BannerContainer
+	{
+		width: 100%;
+		margin-top: 10px;
+	}
+	#mainContent
+	{
+		width: 100%;
+		margin-top: 10px;
+		padding-top: 20px;
+	}
+}

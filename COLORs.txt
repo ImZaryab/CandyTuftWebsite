@@ -1,0 +1,3 @@
+Blue-gray: #8a9caa
+
+Brand Text: #0c4160

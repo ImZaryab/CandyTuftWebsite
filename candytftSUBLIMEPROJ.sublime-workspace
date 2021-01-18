@@ -1,0 +1,489 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"brode",
+				"border-radius\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"visi",
+				"visible-lg"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"visib",
+				"visible-md"
+			],
+			[
+				"Candu",
+				"CandyTuft"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"text-w",
+				"text-overflow\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"marig",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"bord",
+				"border-bottom\tproperty"
+			],
+			[
+				"text-",
+				"text-orientation\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"im",
+				"pickup_Item1"
+			],
+			[
+				"draw",
+				"drawImage"
+			],
+			[
+				"start",
+				"startAnimation"
+			],
+			[
+				"fps",
+				"fpsInterval"
+			],
+			[
+				"fram",
+				"frameX"
+			],
+			[
+				"fra",
+				"frameX"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"frame",
+				"frameX"
+			],
+			[
+				"d",
+				"drawImage"
+			],
+			[
+				"ad",
+				"adj"
+			],
+			[
+				"learn",
+				"learntechnow"
+			],
+			[
+				"c",
+				"cursive\tfont"
+			],
+			[
+				"C",
+				"container"
+			],
+			[
+				"head",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 101,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Zaryab/GitHubRepositories/CandyTFT"
+	],
+	"file_history":
+	[
+		"/C/Users/Zaryab/GitHubRepositories/CandyTuft(tobeHosted)/css/styles.css",
+		"/C/Users/Zaryab/GitHubRepositories/CandyTuft(tobeHosted)/index.html",
+		"/C/Users/Zaryab/GitHubRepositories/CandyTuft(tobeHosted)/HomePage.html",
+		"/C/Users/Zaryab/GitHubRepositories/CandyTuft(tobeHosted)/js/script.js",
+		"/C/Users/Zaryab/coursera-test/module2-solution/css/ExtStyleSheet.css",
+		"/C/Users/Zaryab/coursera-test/module2-solution/index.html",
+		"/C/Users/Zaryab/coursera-test/site/index.html",
+		"/C/MAMP/htdocs/JS Test Game/main.js",
+		"/C/MAMP/htdocs/JS Test Game/Global.css",
+		"/C/MAMP/htdocs/JS Test Game/index.html",
+		"/C/MAMP/htdocs/Advanced HTML5/04 Project/01. Starter Files/index.html",
+		"/C/MAMP/htdocs/Advanced HTML5/04 Project/01. Starter Files/css/global.css",
+		"/C/MAMP/htdocs/Top Down Sample Project/index.html",
+		"/C/MAMP/htdocs/Top Down Scroller/mainJS.js",
+		"/C/MAMP/htdocs/Top Down Scroller/main.css",
+		"/C/MAMP/htdocs/Top Down Scroller/index.html",
+		"/C/MAMP/htdocs/Basic JavaScript/01 Where to insert JavaScript/index.html",
+		"/C/MAMP/htdocs/Basic CSS3/04 Project/01. Starter Files/index.html",
+		"/C/MAMP/htdocs/Basic HTML5/06 Project/01. Starter Files/index.html",
+		"/C/MAMP/htdocs/Basic HTML5/Hello.cpp",
+		"/C/Users/Zaryab/AppData/Roaming/Sublime Text 3/Packages/Terminality/Default (Windows).sublime-keymap",
+		"/C/Users/Zaryab/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/MAMP/htdocs/Basic JavaScript/05 Project/01. Starter Files/js/main.js",
+		"/C/MAMP/htdocs/Basic JavaScript/05 Project/01. Starter Files/index.html",
+		"/C/MAMP/htdocs/Basic JavaScript/04 Statements/index.html",
+		"/C/MAMP/htdocs/Basic JavaScript/04 Statements/main.js",
+		"/C/MAMP/htdocs/Basic JavaScript/03 Syntax/index.html",
+		"/C/MAMP/htdocs/Basic JavaScript/03 Syntax/main.js",
+		"/C/MAMP/htdocs/Basic JavaScript/02 Output/main.js",
+		"/C/MAMP/htdocs/Basic JavaScript/02 Output/index.html",
+		"/C/MAMP/htdocs/Basic JavaScript/01 Where to insert JavaScript/main.js",
+		"/C/MAMP/htdocs/Advanced CSS3/06 Project/01. Starter Files/css/global.css",
+		"/C/MAMP/htdocs/Advanced CSS3/05 Links/index.html",
+		"/C/MAMP/htdocs/Advanced CSS3/04 Combinators/index.html",
+		"/C/MAMP/htdocs/Advanced CSS3/03 Float/index.html",
+		"/C/MAMP/htdocs/Advanced CSS3/02 Overflow/index.html",
+		"/C/MAMP/htdocs/Advanced CSS3/02 Flow/index.html",
+		"/C/MAMP/htdocs/Advanced CSS3/01 Display/index.html",
+		"/C/MAMP/htdocs/Basic CSS3/04 Project/01. Starter Files/css/global.css",
+		"/C/MAMP/htdocs/Basic CSS3/04 Project/01. Starter Files/css/main.css",
+		"/C/MAMP/htdocs/Basic CSS3/03 Basic CSS3 Properties/index.html",
+		"/C/MAMP/htdocs/Basic CSS3/03 Basic CSS3 Properties/css/style.css",
+		"/C/MAMP/htdocs/Basic CSS3/02 External Styling/index.html",
+		"/C/MAMP/htdocs/Basic CSS3/02 External Styling/css/style.css",
+		"/C/MAMP/htdocs/Basic CSS3/02 External Styling/style.css",
+		"/C/MAMP/htdocs/Basic CSS3/01 Internal Styling/index.html",
+		"/C/MAMP/htdocs/Advanced HTML5/04 Project/01. Starter Files/premiumplus.html",
+		"/C/MAMP/htdocs/Advanced HTML5/04 Project/01. Starter Files/courses.html",
+		"/C/MAMP/htdocs/Advanced HTML5/04 Project/01. Starter Files/techsupport.html",
+		"/C/MAMP/htdocs/Advanced HTML5/03 HTML5 Media Tags/index.html",
+		"/C/MAMP/htdocs/Advanced HTML5/02 HTML5 Formatting Tags/index.html",
+		"/C/MAMP/htdocs/Advanced HTML5/01 HTML5 Layout Tags/index.html",
+		"/C/MAMP/htdocs/Basic HTML5/06 Project/01. Starter Files/css/main.css",
+		"/C/MAMP/htdocs/Basic HTML5/06 Project/01. Starter Files/css/global.css",
+		"/C/MAMP/htdocs/Basic HTML5/05 Basic HTML5 Tags/index.html",
+		"/C/MAMP/htdocs/Basic HTML5/04 Classes & IDs/index.html",
+		"/C/MAMP/htdocs/Basic HTML5/03 Formatting HTML TAGS/index.html",
+		"/C/MAMP/htdocs/Basic HTML5/02 Basic HTML Tags/index.html",
+		"/C/MAMP/htdocs/Basic HTML5/01 Setting HTML DOC/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"right",
+			"}\n",
+			"moving",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "candytftSUBLIMEPROJ.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Zaryab\\Desktop\\Coding Resources\\Sublime Workspaces\\Projects\\Main Project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
